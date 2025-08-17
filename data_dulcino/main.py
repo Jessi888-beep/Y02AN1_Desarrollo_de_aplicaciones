@@ -46,7 +46,7 @@ def load_df() -> pd.DataFrame:
             raise ValueError("Valor invalido para ¿esta en venta?")
         return nombre.strip(), round(p,2),sorted(list(set(categorias))),(en en_venta_label=="Si")
     
-    
+
         
 
 
@@ -65,6 +65,24 @@ with st.form("form-producto",clear_on_submit=True):
     en_venta_label  = st.radio("¿El producto esta en venta?",options=["Si","No"],horizontal=True)
 
     submitted = st.form_submit_button("Guardar")
+
+
+    if submitted:
+        try:
+            nombre, precio, categorias, en_venta = validate(nombre, precio, categorias, en_venta_label)
+            nuevo = {
+                "nombre": nombre,
+                "precio": precio,
+                "categorias": ",".join(categorias),
+                "en venta": en_venta,
+                "ts": datetime.now().isoformat(timespec="seconds")
+            }
+            df = pd.concat([df, pd.DataFrame([nuevo])], ignore_index=True)
+            df.to_csv(CSV_PATH, index=False, encoding="utf-8")
+            st.success("✅ Producto guardado correctamente.")
+        except Exception as e:
+            st.error(f"❌ Error: {e}")
+
 
 
 
