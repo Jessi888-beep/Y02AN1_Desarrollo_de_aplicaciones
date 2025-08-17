@@ -1,0 +1,1004 @@
+[
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Consejo",
+    "precio": "banco",
+    "categorias": [
+      "Gomas de mascar"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Centros",
+    "precio": 884.8,
+    "categorias": [
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Semana",
+    "precio": 141.56,
+    "categorias": [
+      "Caramelos",
+      "Galletas",
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "B",
+    "precio": 954.41,
+    "categorias": [
+      "Galletas",
+      "Gomas de mascar"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Son",
+    "precio": -23.89,
+    "categorias": [
+      "Mashmelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Pp",
+    "precio": 64.0,
+    "categorias": [
+      "Chocolates",
+      "Gomas de mascar"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Cargo",
+    "precio": 694.49,
+    "categorias": [
+      "Gomas de mascar",
+      "Galletas"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_categorias",
+    "nombre": "Mayores",
+    "precio": 793.69,
+    "categorias": [
+      "escuela"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Día",
+    "precio": 1072.55,
+    "categorias": [
+      "Chocolates",
+      "Salados",
+      "Galletas"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Ambos",
+    "precio": 184.3,
+    "categorias": [
+      "Caramelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Psoe",
+    "precio": 386.47,
+    "categorias": [
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Peso",
+    "precio": 508.74,
+    "categorias": [
+      "Chocolates",
+      "Galletas"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Proceso",
+    "precio": 814.81,
+    "categorias": [
+      "Chocolates",
+      "Gomas de mascar",
+      "Galletas"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Han",
+    "precio": 934.16,
+    "categorias": [
+      "Gomas de mascar",
+      "Chocolates"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Argentina",
+    "precio": 662.92,
+    "categorias": [
+      "Chocolates",
+      "Caramelos",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Cualquier",
+    "precio": 689.62,
+    "categorias": [
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_nombre",
+    "nombre": "Lo pueden les usted plan contenido programa se.",
+    "precio": 184.72,
+    "categorias": [
+      "Mashmelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Puntos",
+    "precio": 219.77,
+    "categorias": [
+      "Galletas",
+      "Mashmelos",
+      "Caramelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Decía",
+    "precio": 421.17,
+    "categorias": [
+      "Chocolates"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Todo",
+    "precio": 463.44,
+    "categorias": [
+      "Caramelos",
+      "Chocolates"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_categorias",
+    "nombre": "Grado",
+    "precio": 233.11,
+    "categorias": [
+      "tras"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_nombre",
+    "nombre": "Profesional incluso finalmente violencia cómo.",
+    "precio": 487.35,
+    "categorias": [
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Justicia",
+    "precio": "fiscal",
+    "categorias": [
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Autor",
+    "precio": -88.35,
+    "categorias": [
+      "Gomas de mascar",
+      "Galletas",
+      "Mashmelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Propio",
+    "precio": 783.62,
+    "categorias": [
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Horas",
+    "precio": 394.85,
+    "categorias": [
+      "Galletas",
+      "Gomas de mascar",
+      "Chocolates"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Durante",
+    "precio": 942.09,
+    "categorias": [
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Todas",
+    "precio": 795.03,
+    "categorias": [
+      "Gomas de mascar",
+      "Chocolates"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Torno",
+    "precio": 662.19,
+    "categorias": [
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Elementos",
+    "precio": 775.88,
+    "categorias": [
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_categorias",
+    "nombre": "Texto",
+    "precio": 658.21,
+    "categorias": [
+      "central",
+      "busca",
+      "grado"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Sino",
+    "precio": -55.52,
+    "categorias": [
+      "Galletas"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "También",
+    "precio": 152.82,
+    "categorias": [
+      "Mashmelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Aquel",
+    "precio": 187.2,
+    "categorias": [
+      "Gomas de mascar"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Pensar",
+    "precio": 112.85,
+    "categorias": [
+      "Mashmelos",
+      "Chocolates",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Vuelta",
+    "precio": 537.79,
+    "categorias": [
+      "Salados",
+      "Caramelos",
+      "Chocolates"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Revolución",
+    "precio": "corazón",
+    "categorias": [
+      "Galletas",
+      "Caramelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Nadie",
+    "precio": 954.21,
+    "categorias": [
+      "Caramelos",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Centro",
+    "precio": 731.23,
+    "categorias": [
+      "Chocolates",
+      "Galletas",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Prensa",
+    "precio": 115.96,
+    "categorias": [
+      "Caramelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Buena",
+    "precio": 196.79,
+    "categorias": [
+      "Galletas"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_categorias",
+    "nombre": "Presidente",
+    "precio": 370.77,
+    "categorias": [
+      "salud",
+      "a",
+      "calle"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Derechos",
+    "precio": 780.57,
+    "categorias": [
+      "Mashmelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Sería",
+    "precio": 436.52,
+    "categorias": [
+      "Galletas",
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Que",
+    "precio": 183.1,
+    "categorias": [
+      "Galletas",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Sistemas",
+    "precio": 371.32,
+    "categorias": [
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Tiempo",
+    "precio": 845.42,
+    "categorias": [
+      "Chocolates",
+      "Mashmelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_estado_venta",
+    "nombre": "Función",
+    "precio": 554.5,
+    "categorias": [
+      "Gomas de mascar",
+      "Galletas",
+      "Salados"
+    ],
+    "en_venta": "aspectos"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Diez",
+    "precio": 71.19,
+    "categorias": [
+      "Chocolates",
+      "Caramelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Llegó",
+    "precio": 670.48,
+    "categorias": [
+      "Caramelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_categorias",
+    "nombre": "Si",
+    "precio": 171.21,
+    "categorias": [
+      "siguientes",
+      "cuyo",
+      "hacerlo"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Gracias",
+    "precio": 759.35,
+    "categorias": [
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Seguro",
+    "precio": 153.26,
+    "categorias": [
+      "Chocolates"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Se",
+    "precio": 455.39,
+    "categorias": [
+      "Caramelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Capaz",
+    "precio": "vía",
+    "categorias": [
+      "Chocolates",
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Dónde",
+    "precio": 782.47,
+    "categorias": [
+      "Salados",
+      "Galletas"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Director",
+    "precio": "humano",
+    "categorias": [
+      "Salados",
+      "Galletas",
+      "Chocolates"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Sigue",
+    "precio": 818.58,
+    "categorias": [
+      "Caramelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_categorias",
+    "nombre": "Cuya",
+    "precio": 392.54,
+    "categorias": [
+      "informe",
+      "comisión"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Suerte",
+    "precio": 50.34,
+    "categorias": [
+      "Chocolates",
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Momentos",
+    "precio": 431.35,
+    "categorias": [
+      "Gomas de mascar",
+      "Galletas",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Produce",
+    "precio": 128.36,
+    "categorias": [
+      "Chocolates",
+      "Galletas",
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Suelo",
+    "precio": 174.97,
+    "categorias": [
+      "Galletas",
+      "Caramelos",
+      "Gomas de mascar"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Quiero",
+    "precio": 439.28,
+    "categorias": [
+      "Galletas",
+      "Caramelos",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Cómo",
+    "precio": 981.21,
+    "categorias": [
+      "Caramelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Ningún",
+    "precio": 840.27,
+    "categorias": [
+      "Chocolates"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Teatro",
+    "precio": 272.11,
+    "categorias": [
+      "Mashmelos",
+      "Salados",
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_categorias",
+    "nombre": "Primer",
+    "precio": 276.83,
+    "categorias": [
+      "mayo",
+      "educación",
+      "bastante"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Guerra",
+    "precio": 540.48,
+    "categorias": [
+      "Mashmelos",
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Septiembre",
+    "precio": -21.28,
+    "categorias": [
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "La",
+    "precio": 1434.74,
+    "categorias": [
+      "Salados",
+      "Caramelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Duda",
+    "precio": 762.61,
+    "categorias": [
+      "Caramelos",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Dinero",
+    "precio": "seis",
+    "categorias": [
+      "Galletas",
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Y",
+    "precio": 68.48,
+    "categorias": [
+      "Galletas",
+      "Caramelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Líder",
+    "precio": 36.4,
+    "categorias": [
+      "Caramelos",
+      "Galletas",
+      "Mashmelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Vía",
+    "precio": 627.2,
+    "categorias": [
+      "Chocolates",
+      "Mashmelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Llegar",
+    "precio": 555.41,
+    "categorias": [
+      "Chocolates",
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Tú",
+    "precio": 642.93,
+    "categorias": [
+      "Galletas"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Unidos",
+    "precio": 279.15,
+    "categorias": [
+      "Mashmelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_nombre",
+    "nombre": "Final momentos cómo las sistemas jorge.",
+    "precio": 485.11,
+    "categorias": [
+      "Mashmelos",
+      "Salados",
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_nombre",
+    "nombre": "Segundo pueblo entrada plaza importancia hechos.",
+    "precio": 646.32,
+    "categorias": [
+      "Chocolates",
+      "Gomas de mascar",
+      "Caramelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_estado_venta",
+    "nombre": "Estar",
+    "precio": 477.39,
+    "categorias": [
+      "Galletas"
+    ],
+    "en_venta": "artículo"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Único",
+    "precio": 209.67,
+    "categorias": [
+      "Gomas de mascar",
+      "Chocolates",
+      "Mashmelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Aspectos",
+    "precio": 278.93,
+    "categorias": [
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Principal",
+    "precio": -31.03,
+    "categorias": [
+      "Caramelos",
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Cuyo",
+    "precio": 336.55,
+    "categorias": [
+      "Salados",
+      "Gomas de mascar",
+      "Mashmelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_precio",
+    "nombre": "Estaba",
+    "precio": "aire",
+    "categorias": [
+      "Salados",
+      "Caramelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Esfuerzo",
+    "precio": 270.7,
+    "categorias": [
+      "Mashmelos",
+      "Gomas de mascar",
+      "Chocolates"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Unos",
+    "precio": 622.34,
+    "categorias": [
+      "Gomas de mascar",
+      "Mashmelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Mayoría",
+    "precio": 775.45,
+    "categorias": [
+      "Galletas"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_categorias",
+    "nombre": "Siendo",
+    "precio": 206.64,
+    "categorias": [
+      "naturaleza",
+      "memoria",
+      "bajo"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Intereses",
+    "precio": 879.6,
+    "categorias": [
+      "Caramelos",
+      "Chocolates"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Dicen",
+    "precio": 490.05,
+    "categorias": [
+      "Gomas de mascar"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "invalido_nombre",
+    "nombre": "Acuerdo tan cosas diez.",
+    "precio": 388.53,
+    "categorias": [
+      "Galletas",
+      "Chocolates",
+      "Mashmelos"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Decisión",
+    "precio": 956.8,
+    "categorias": [
+      "Gomas de mascar",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "invalido_estado_venta",
+    "nombre": "Señora",
+    "precio": 267.99,
+    "categorias": [
+      "Mashmelos",
+      "Caramelos"
+    ],
+    "en_venta": "espacio"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Época",
+    "precio": 20.21,
+    "categorias": [
+      "Caramelos",
+      "Salados"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Mismo",
+    "precio": 63.68,
+    "categorias": [
+      "Galletas"
+    ],
+    "en_venta": "No"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Tengo",
+    "precio": 50.36,
+    "categorias": [
+      "Mashmelos",
+      "Galletas",
+      "Caramelos"
+    ],
+    "en_venta": "Si"
+  },
+  {
+    "tipo": "valido",
+    "nombre": "Uno",
+    "precio": 223.1,
+    "categorias": [
+      "Galletas",
+      "Caramelos",
+      "Salados"
+    ],
+    "en_venta": "Si"
+  }
+]

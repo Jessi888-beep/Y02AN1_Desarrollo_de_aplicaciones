@@ -1,0 +1,101 @@
+tipo,nombre,precio,categorias,en_venta
+invalido_precio,Consejo,banco,Gomas de mascar,Si
+valido,Centros,884.8,Salados,Si
+valido,Semana,141.56,Caramelos|Galletas|Gomas de mascar,No
+valido,B,954.41,Galletas|Gomas de mascar,Si
+invalido_precio,Son,-23.89,Mashmelos,No
+valido,Pp,64.0,Chocolates|Gomas de mascar,Si
+valido,Cargo,694.49,Gomas de mascar|Galletas,No
+invalido_categorias,Mayores,793.69,escuela,Si
+invalido_precio,Día,1072.55,Chocolates|Salados|Galletas,Si
+valido,Ambos,184.3,Caramelos,Si
+valido,Psoe,386.47,Gomas de mascar|Salados,No
+valido,Peso,508.74,Chocolates|Galletas,Si
+valido,Proceso,814.81,Chocolates|Gomas de mascar|Galletas,Si
+valido,Han,934.16,Gomas de mascar|Chocolates,Si
+valido,Argentina,662.92,Chocolates|Caramelos|Salados,Si
+valido,Cualquier,689.62,Salados,No
+invalido_nombre,Lo pueden les usted plan contenido programa se.,184.72,Mashmelos,No
+valido,Puntos,219.77,Galletas|Mashmelos|Caramelos,Si
+valido,Decía,421.17,Chocolates,Si
+valido,Todo,463.44,Caramelos|Chocolates,Si
+invalido_categorias,Grado,233.11,tras,Si
+invalido_nombre,Profesional incluso finalmente violencia cómo.,487.35,Gomas de mascar|Salados,Si
+invalido_precio,Justicia,fiscal,Salados,No
+invalido_precio,Autor,-88.35,Gomas de mascar|Galletas|Mashmelos,Si
+valido,Propio,783.62,Gomas de mascar,No
+valido,Horas,394.85,Galletas|Gomas de mascar|Chocolates,Si
+valido,Durante,942.09,Gomas de mascar|Salados,Si
+valido,Todas,795.03,Gomas de mascar|Chocolates,Si
+valido,Torno,662.19,Gomas de mascar,No
+valido,Elementos,775.88,Salados,No
+invalido_categorias,Texto,658.21,central|busca|grado,No
+invalido_precio,Sino,-55.52,Galletas,Si
+valido,También,152.82,Mashmelos,No
+valido,Aquel,187.2,Gomas de mascar,Si
+valido,Pensar,112.85,Mashmelos|Chocolates|Salados,Si
+valido,Vuelta,537.79,Salados|Caramelos|Chocolates,Si
+invalido_precio,Revolución,corazón,Galletas|Caramelos,No
+valido,Nadie,954.21,Caramelos|Salados,No
+valido,Centro,731.23,Chocolates|Galletas|Salados,No
+valido,Prensa,115.96,Caramelos,No
+valido,Buena,196.79,Galletas,Si
+invalido_categorias,Presidente,370.77,salud|a|calle,Si
+valido,Derechos,780.57,Mashmelos,No
+valido,Sería,436.52,Galletas|Gomas de mascar|Salados,Si
+valido,Que,183.1,Galletas|Salados,No
+valido,Sistemas,371.32,Gomas de mascar|Salados,Si
+valido,Tiempo,845.42,Chocolates|Mashmelos,Si
+invalido_estado_venta,Función,554.5,Gomas de mascar|Galletas|Salados,aspectos
+valido,Diez,71.19,Chocolates|Caramelos,Si
+valido,Llegó,670.48,Caramelos,No
+invalido_categorias,Si,171.21,siguientes|cuyo|hacerlo,Si
+valido,Gracias,759.35,Salados,Si
+valido,Seguro,153.26,Chocolates,No
+valido,Se,455.39,Caramelos,No
+invalido_precio,Capaz,vía,Chocolates|Gomas de mascar,No
+valido,Dónde,782.47,Salados|Galletas,No
+invalido_precio,Director,humano,Salados|Galletas|Chocolates,Si
+valido,Sigue,818.58,Caramelos,Si
+invalido_categorias,Cuya,392.54,informe|comisión,No
+valido,Suerte,50.34,Chocolates|Gomas de mascar,No
+valido,Momentos,431.35,Gomas de mascar|Galletas|Salados,Si
+valido,Produce,128.36,Chocolates|Galletas|Gomas de mascar,No
+valido,Suelo,174.97,Galletas|Caramelos|Gomas de mascar,Si
+valido,Quiero,439.28,Galletas|Caramelos|Salados,Si
+valido,Cómo,981.21,Caramelos,No
+valido,Ningún,840.27,Chocolates,No
+valido,Teatro,272.11,Mashmelos|Salados|Gomas de mascar,No
+invalido_categorias,Primer,276.83,mayo|educación|bastante,No
+valido,Guerra,540.48,Mashmelos|Gomas de mascar|Salados,No
+invalido_precio,Septiembre,-21.28,Salados,No
+invalido_precio,La,1434.74,Salados|Caramelos,Si
+valido,Duda,762.61,Caramelos|Salados,No
+invalido_precio,Dinero,seis,Galletas|Gomas de mascar|Salados,Si
+valido,Y,68.48,Galletas|Caramelos,Si
+valido,Líder,36.4,Caramelos|Galletas|Mashmelos,Si
+valido,Vía,627.2,Chocolates|Mashmelos,Si
+valido,Llegar,555.41,Chocolates|Gomas de mascar,No
+valido,Tú,642.93,Galletas,No
+valido,Unidos,279.15,Mashmelos,Si
+invalido_nombre,Final momentos cómo las sistemas jorge.,485.11,Mashmelos|Salados|Gomas de mascar,No
+invalido_nombre,Segundo pueblo entrada plaza importancia hechos.,646.32,Chocolates|Gomas de mascar|Caramelos,Si
+invalido_estado_venta,Estar,477.39,Galletas,artículo
+valido,Único,209.67,Gomas de mascar|Chocolates|Mashmelos,No
+valido,Aspectos,278.93,Gomas de mascar|Salados,No
+invalido_precio,Principal,-31.03,Caramelos|Gomas de mascar|Salados,No
+valido,Cuyo,336.55,Salados|Gomas de mascar|Mashmelos,No
+invalido_precio,Estaba,aire,Salados|Caramelos,No
+valido,Esfuerzo,270.7,Mashmelos|Gomas de mascar|Chocolates,No
+valido,Unos,622.34,Gomas de mascar|Mashmelos,No
+valido,Mayoría,775.45,Galletas,No
+invalido_categorias,Siendo,206.64,naturaleza|memoria|bajo,No
+valido,Intereses,879.6,Caramelos|Chocolates,Si
+valido,Dicen,490.05,Gomas de mascar,No
+invalido_nombre,Acuerdo tan cosas diez.,388.53,Galletas|Chocolates|Mashmelos,No
+valido,Decisión,956.8,Gomas de mascar|Salados,Si
+invalido_estado_venta,Señora,267.99,Mashmelos|Caramelos,espacio
+valido,Época,20.21,Caramelos|Salados,No
+valido,Mismo,63.68,Galletas,No
+valido,Tengo,50.36,Mashmelos|Galletas|Caramelos,Si
+valido,Uno,223.1,Galletas|Caramelos|Salados,Si
