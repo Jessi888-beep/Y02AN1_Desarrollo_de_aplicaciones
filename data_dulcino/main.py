@@ -63,7 +63,7 @@ with st.form("form-add",clear_on_submit=True):
     categorias =st.multiselect("Categorias",ALLOWED_CATEGORIES)
     en_venta = st.radio("¿En Venta?", ["Si","NO"]) == "Si"
     submitted = st.form_submit_button("Guardar")
-    
+
 
 
 
