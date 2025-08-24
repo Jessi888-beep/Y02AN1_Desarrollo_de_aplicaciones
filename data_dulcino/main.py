@@ -20,11 +20,11 @@ ALLOWED_CATEGORIES = [
 #Funciones CRUD
 #-----------------------------
 
-def sb_list() -> pd.Data.Frame:
+def sb_list() ->pd.DataFrame:
     res = supabase.table("products").select("*").order("ts", desc =True).execute()
     return pd.DataFrame(res.data or [])
 
-def sb_insert(nombre: str, precio:float, categorias: list, en_venta:bool) :
+def sb_insert(nombre: str, precio:float, categorias: list, en_venta:bool):
     payload = {
         "nombre" :nombre,
         "precio" :precio,
@@ -63,6 +63,9 @@ with st.form("form-add",clear_on_submit=True):
     categorias =st.multiselect("Categorias",ALLOWED_CATEGORIES)
     en_venta = st.radio("¿En Venta?", ["Si","NO"]) == "Si"
     submitted = st.form_submit_button("Guardar")
+
+
+
 
 
 
