@@ -2,13 +2,34 @@ import os
 import pandas as pd
 import streamlit as st
 from datetime import datetime
+from supabase import create_client
+
+
+
 
 DATA_DIR = "datos_sinteticos"
 CSV_PATH = os.path.join(DATA_DIR,"productos.csv")
-
+#Conexion a Supabase#
+SUPABASE_URL = os.environ(https://tgdtmrkahxplxakwdvzf.supabase.co)
+SUPABASE_KEY =os environ.get(eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRnZHRtcmthaHhwbHhha3dkdnpmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU2NTA5MzAsImV4cCI6MjA3MTIyNjkzMH0.24hBaWLF3v1vYeEpi66ekYUjFEO80ylR4LXnHFPF7Ew)
 ALLOWED_CATEGORIES = [
     "Chocolates","Caramelos","Mashmelos","Galletas","Salados", "Gomas de mascar"
     ]
+#Funciones CRUD#
+def sb_list() -> pd.DataFrame:
+    res = supabase.table("products").select ("*").order ("ts",desc=True).execute()
+    return pd.DataFrame(res.data or[])
+
+def sb_insert(nombre:str,precio:float,categorias:list,en_venta:bool):
+    payload = {
+        "nombre" :nombre,
+        "precio": precio,
+        "categorias":categorias,
+        "en_venta":en_venta,
+        "ts":date
+        }
+        supabase.table("products")
+            
 
 st.title("Confiteria Dulcino")
 
@@ -87,6 +108,8 @@ with st.form("form-producto", clear_on_submit=True):
             st.success("✅ Producto guardado correctamente.")
         except Exception as e:
             st.error(f"❌ Error: {e}")
+
+    dcc
             
 
 
