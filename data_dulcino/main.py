@@ -96,7 +96,44 @@ if submitted:
         st.rerun()
 st.divider()
 
+# --Listar / Editar /Borrar
+st.header("productos registrados")
+df = sb_list()
+if df.empty:
+    st.info("No hay productos aún")
+else:
+    st.dataframe(df,use_container_width=True)
 
+    #Seleccionar el producto
+    opciones = {
+        f"{r['nombre']}-{r['precio']}": r["id"] 
+        for _, r in df.iterrows()
+    }
+
+    etiqueta= st.selectbox("Selecciona para editar /eliminar",list (opciones.keys()))
+    producto_id = int (opciones[etiqueta])
+    fila =df[df["id"]== producto_id].iloc[]
+
+    with st.form("form-edit"):
+        c1,c2 = st.columns([2,1])
+        with c1:
+            ed_nombre =st.text_input("Nombre",value=fila["nombre"])
+        with c2:
+            ed_precio=st.number_input
+            "precio (S/)"
+            min_value=0.0,max_value=998.99,step=0.10,format%.2f
+            ed_categorias=st.multiselect("categorias",ALLOWED_CATEGORIES,DEFAULT=FILA["CATEGORIAS"])
+            ed_en_venta = st.radio("¿En Venta?"),["Si","No"],index=0 if fila["en_venta"] else 1
+
+            colul1,colu2= st.columns(2)
+            with colul1
+            btn_update =st.form_submit_button("Guardar Cambios")
+            with colu2:
+                btn_delete = st.form_submit_button("Eliminar",type="primary")
+
+
+
+                                 
 
 
 
