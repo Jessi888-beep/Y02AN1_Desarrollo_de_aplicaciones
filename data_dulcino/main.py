@@ -48,7 +48,8 @@ def sb_deleate(id_:int):
     supabase.table("products").delete().eq("id",id_).execute()
 
 def validar(nombre:str,precio:float,categorias:list[str]) -> str | None:
-    if not nombre or len(nombre:strip())== 0 or len(nombre.strip()) > 20:
+    if not nombre or len(nombre.strip()) == 0 or len(nombre.strip()) > 20:
+
          return "El nombre es obligatorio y debe de terner <=20 caracteres."
     try:
         p = float(precio)
