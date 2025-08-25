@@ -8,8 +8,8 @@ from supabase import create_client
 #Conexión a supabase
 #---------------------
 
-SUPABASE_URL = os.environ.get("https://tgdtmrkahxplxakwdvzf.supabase.co")
-SUPABASE_KEY = os.environ.get("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRnZHRtcmthaHhwbHhha3dkdnpmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU2NTA5MzAsImV4cCI6MjA3MTIyNjkzMH0.24hBaWLF3v1vYeEpi66ekYUjFEO80ylR4LXnHFPF7Ew")
+SUPABASE_URL = st.secrets["SUPABASE_URL"]
+SUPABASE_KEY = st.secrets["SUPABASE_KEY"]
 
 supabase = create_client(SUPABASE_URL,SUPABASE_KEY)
 
