@@ -119,18 +119,38 @@ else:
         with c1:
             ed_nombre =st.text_input("Nombre",value=fila["nombre"])
         with c2:
-            ed_precio=st.number_input
-            "precio (S/)"
-            min_value=0.0,max_value=998.99,step=0.10,format%.2f
+            ed_precio=st.number_input(
+                "precio (S/)",value=float(fila["precio"]),
+                min_value=0.0,max_value=998.99,step=0.10,format%.2f
+                )
             ed_categorias=st.multiselect("categorias",ALLOWED_CATEGORIES,DEFAULT=FILA["CATEGORIAS"])
-            ed_en_venta = st.radio("¿En Venta?"),["Si","No"],index=0 if fila["en_venta"] else 1
+            ed_en_venta = st.radio("¿En Venta?"),["Si","No"],index=0 if fila["en_venta"] else 1,horizontal=True =="Sí"
 
-            colul1,colu2= st.columns(2)
-            with colul1
-            btn_update =st.form_submit_button("Guardar Cambios")
+            colu1,colu2= st.columns(2)
+            with colu1
+                 btn_update =st.form_submit_button("Guardar Cambios")
             with colu2:
                 btn_delete = st.form_submit_button("Eliminar",type="primary")
 
+            if btn_update:
+                err = validar(ed_nombre,ed_precio,ed_categorias)
+                if err:
+                    if "precio" in err.lower
+                    st.error("Por favor verifique el campo precio")
+                else:
+                    st.error("lo sentimos no pudo actualizr este producto.")
+                    st.info(err)
+                else:
+                    sb:update(producto_id,ed_nombre.strip(),float(ed_precio),ed_categorias,ed_en_venta)
+                    st.success("Producto Actualizado")
+                st.return()
+            
+            if btn_delete:
+                sb_deleate(producto_id)
+                st.success("Producto Eliminado")
+                st.return
+            
+                
 
 
                                  
